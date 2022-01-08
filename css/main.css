@@ -993,6 +993,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .skill-bars li .percent5   { width: 5%; }
 .skill-bars li .percent10  { width: 10%; }
+.skill-bars li .percent13  { width: 13%; }
 .skill-bars li .percent15  { width: 15%; }
 .skill-bars li .percent20  { width: 20%; }
 .skill-bars li .percent25  { width: 25%; }
